@@ -40,7 +40,8 @@ A simple digital clock built using HTML, CSS, and JavaScript.
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
 
-##Sample Screenshot
+## Sample Screenshot
+
 ![image](https://github.com/user-attachments/assets/cb619d89-2f1e-4517-8d7a-ab79b8bdeaf7)
 
 
